@@ -20,5 +20,5 @@ A C# desktop application built to manage furniture inventory, customers, and ord
 This project was developed as part of a Computer Programming course to practice software engineering principles, object-oriented design, CRUD operations, and building maintainable applications.
 
 ## 👩‍💻 Authors
-- Miri Selengut github.com/miriselengut
-- Shoshana Bernstein github.com/shoshanabernstein
+- Miri Selengut Miri Selengut — https://github.com/miriselengut
+- Shoshana Bernstein — https://github.com/shoshanabernstein
